@@ -1,0 +1,4 @@
+-IC:\Users\mbber\Desktop\New folder\C++\Section16\ChallengeSolution-Part1
+-std=c++14
+-target
+x86_64-w64-mingw32
